@@ -1,4 +1,4 @@
-import Example from './examples/alert.example'
+import Example from './examples/checkbox.example'
 
 function App() {
   return <Example />

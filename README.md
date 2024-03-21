@@ -15,14 +15,14 @@ The documentation is a WIP and will be updated here when ready.
 | alert      |   ✅   |   ✅   |     |
 | avatar     |   ✅   |       |     |
 | badge      |   ✅   |       |     |
-| button     |   ✅   |       |     |
+| button     |   ✅   |   ✅  |     |
 | card       |   ✅   |       |     |
 | checkbox   |   ✅   |       |     |
-| dialog     |   ✅   |       |     |
+| dialog     |   ✅   |   ✅  |     |
 | dropdown-menu| ✅   |       |     |
 | hover-card |   ✅   |       |     |
-| input      |   ✅   |       |     |
-| label      |   ✅   |       |     |
+| input      |   ✅   |   ✅  |     |
+| label      |   ✅   |   ✅  |     |
 | radio-group|   ✅   |       |     |
 | select     |   ✅   |       |     |
 | sheet      |   ✅   |       |     |
