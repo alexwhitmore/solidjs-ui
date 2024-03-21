@@ -10,11 +10,11 @@ The documentation is a WIP and will be updated here when ready.
 
 | Component      | Solid | React | Vue |
 |----------------|:-----:|:-----:|:---:|
-| accordion  |   ✅   |   ✅   |     |
-| alert-dialog|  ✅   |       |     |
-| alert      |   ✅   |   ✅   |     |
-| avatar     |   ✅   |       |     |
-| badge      |   ✅   |       |     |
+| accordion  |   ✅   |   ✅  |     |
+| alert-dialog|  ✅   |   ✅  |     |
+| alert      |   ✅   |   ✅  |     |
+| avatar     |   ✅   |   ✅  |     |
+| badge      |   ✅   |   ✅  |     |
 | button     |   ✅   |   ✅  |     |
 | card       |   ✅   |       |     |
 | checkbox   |   ✅   |       |     |

@@ -54,6 +54,10 @@
   @apply ring-2 ring-ring ring-offset-2 outline-none;
 }
 
+.example-center {
+  @apply flex justify-center items-center h-screen
+}
+
 @layer base {
   * {
     @apply border-border;

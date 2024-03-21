@@ -1,4 +1,4 @@
-import Example from './examples/checkbox.example'
+import Example from './examples/avatar.example'
 
 function App() {
   return <Example />
