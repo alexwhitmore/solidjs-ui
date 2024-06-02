@@ -2,6 +2,8 @@
 
 A beautiful and accessible UI component library based on shadcn-ui and built with SolidJS, ArkUI, and Tailwind.
 
+<img width="1030" alt="Screenshot 2024-02-26 at 6 29 37 PM" src="https://github.com/alexwhitmore/solidjs-ui/assets/57722812/f4db52f4-e13e-4e0a-bd63-cf4bde13a4ce">
+
 ## Documentation
 
 The documentation is a WIP and will be updated here when ready. 
