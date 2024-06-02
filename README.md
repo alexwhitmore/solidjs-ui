@@ -64,6 +64,10 @@ The documentation is a WIP and will be updated here when ready.
 | Toggle Group    |        |       |     |
 | Tooltip         |   ✅   |       |     |
 
+| Additional Components   | Solid | React | Vue |
+|------------------------ |:-----:|:-----:|:---:|
+| Clipboard               |   ✅   |       |     |
+
 
 ## Contributing
 
