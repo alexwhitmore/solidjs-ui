@@ -27,7 +27,7 @@ The documentation is a WIP and will be updated here when ready.
 | Card            |   ✅   |       |     |
 | Carousel        |        |       |     |
 | Checkbox        |   ✅   |       |     |
-| Collapsible     |        |     |     |
+| Collapsible     |   ✅   |     |     |
 | Combobox        |        |     |     |
 | Command         |        |     |     |
 | Context Menu    |        |     |     |
