@@ -7,14 +7,14 @@ import {
   BreadcrumbList,
   BreadcrumbPage,
   BreadcrumbSeparator,
-} from "./components/ui/breadcrumb";
+} from "~/components/ui/breadcrumb";
 import {
   DropdownMenu,
   DropdownMenuTrigger,
   DropdownPosition,
   DropdownMenuContent,
   DropdownMenuItem,
-} from "./components/ui/dropdown-menu";
+} from "~/components/ui/dropdown-menu";
 import { Slash } from 'lucide-solid';
 
 const BreadcrumbDemo: Component = () => {
