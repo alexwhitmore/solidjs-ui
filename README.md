@@ -8,28 +8,56 @@ The documentation is a WIP and will be updated here when ready.
 
 ## Progress
 
-| Component      | Solid | React | Vue |
-|----------------|:-----:|:-----:|:---:|
-| accordion  |   ✅   |   ✅  |     |
-| alert-dialog|  ✅   |   ✅  |     |
-| alert      |   ✅   |   ✅  |     |
-| avatar     |   ✅   |   ✅  |     |
-| badge      |   ✅   |   ✅  |     |
-| button     |   ✅   |   ✅  |     |
-| card       |   ✅   |       |     |
-| checkbox   |   ✅   |       |     |
-| dialog     |   ✅   |   ✅  |     |
-| dropdown-menu| ✅   |       |     |
-| hover-card |   ✅   |       |     |
-| input      |   ✅   |   ✅  |     |
-| label      |   ✅   |   ✅  |     |
-| radio-group|   ✅   |       |     |
-| select     |   ✅   |       |     |
-| sheet      |   ✅   |       |     |
-| skeleton   |   ✅   |       |     |
-| table      |   ✅   |       |     |
-| tabs       |   ✅   |       |     |
-| tooltip    |   ✅   |       |     |
+| Component       | Solid | React | Vue |
+|---------------- |:-----:|:-----:|:---:|
+| Accordion       |   ✅   |   ✅  |     |
+| Alert           |   ✅   |   ✅  |     |
+| Alert Dialog    |   ✅   |   ✅  |     |
+| Aspect Ratio    |        |      |     |
+| Avatar          |   ✅   |   ✅  |     |
+| Badge           |   ✅   |   ✅  |     |
+| Breadcrumb      |   ✅    |     |     |
+| Button          |   ✅   |   ✅  |     |
+| Calendar        |        |       |     |
+| Card            |   ✅   |       |     |
+| Carousel        |        |       |     |
+| Checkbox        |   ✅   |       |     |
+| Collapsible     |        |     |     |
+| Combobox        |        |     |     |
+| Command         |        |     |     |
+| Context Menu    |        |     |     |
+| Data Table      |        |     |     |
+| Date Picker     |        |     |     |
+| Dialog          |   ✅   |   ✅  |     |
+| Drawer          |        |       |     |
+| Dropdown Menu   |   ✅   |       |     |
+| Form            |        |       |     |
+| Hover Card      |   ✅   |       |     |
+| Input           |   ✅   |   ✅  |     |
+| Input OTP       |        |     |     |
+| Label           |   ✅   |   ✅  |     |
+| Menubar         |        |       |     |
+| Navigation Menu |        |       |     |
+| Pagination      |        |       |     |
+| Popover         |        |       |     |
+| Progress        |        |       |     |
+| Radio Group     |   ✅   |       |     |
+| Resizable       |        |       |     |
+| Scroll Area     |        |       |     |
+| Select          |   ✅   |       |     |
+| Separator       |        |       |     |
+| Sheet           |   ✅   |       |     |
+| Skeleton        |   ✅   |       |     |
+| Slider          |        |       |     |
+| Sonner          |        |       |     |
+| Switch          |        |       |     |
+| Table           |   ✅   |       |     |
+| Tabs            |   ✅   |       |     |
+| Text Area       |        |       |     |
+| Toast           |        |       |     |
+| Toggle          |        |       |     |
+| Toggle Group    |        |       |     |
+| Tooltip         |   ✅   |       |     |
 
 
 ## Contributing
